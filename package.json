@@ -2,7 +2,7 @@
 	"name": "json-to-field-constants",
 	"displayName": "Json to Field Constants",
 	"description": "Convert your json object keys into constants , for any language dart , javascript etc",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": "https://github.com/skjcorp/json-to-field-constants",
 	"publisher": "SKJCORP",
 	"icon": "icon.png",

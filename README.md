@@ -5,7 +5,7 @@ These constant are very usefull while working with api and saving responses to d
 Example Mobile apps (Flutter,Java,Reat Native)
 
 
-![Example of how to use](https://raw.githubusercontent.com/skjcorp/json-to-field-constants/blob/main/extension-demo.gif)
+![Example of how to use](https://raw.githubusercontent.com/skjcorp/json-to-field-constants/main/extension-demo.gif)
 
 ## Extension 
 For Feedback and New Feature Suggestion create a new issue.
